@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @hungofhydra
-- 👀 I’m a huge fan of astronomy, expert in cosmology and astrophysics. Self-taught though so I don't have any degree.
-I mainly play strategic game such as Final Fantasy, Super Robot War, Persona, Shin Megami Tensei and Visual Novel. 
-I'm also a vivid mecha fan, you can talk to me about most of mecha IP of there, my favorite are Shin Mazinger Zero and Getter Robot Armageddon.
-I read manga, light novel and watch anime.
-I use English and Japanese aside of my mother language - Vietnamese.
-- 🌱 I’m currently learning and working on Nodejs/Express and React
+- 👀 I’m a huge fan of astronomy, and an expert in cosmology and astrophysics. Self-taught though so I don't have any degree.
+I mainly play strategic games such as Final Fantasy, Super Robot War, Persona, Shin Megami Tensei, and Visual Novel. 
+I'm also a vivid mecha fan, you can talk to me about most of the mecha IP there, my favorites are Shin Mazinger Zero and Getter Robot Armageddon.
+I read manga, light novels, visual novels, and watch anime.
+I use English and Japanese aside from my mother language - Vietnamese.
+- 🌱 I’m currently working with Nodejs/ExpressJS and React
 - 📫 How to reach me
-   - Discord: TanHung#6769
+   - Email: hungofhydra@proton.me   
+   - Discord: mare_s_ephemeral
    - Twitter : @hung_hydra
 
 <!---
